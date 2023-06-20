@@ -1,0 +1,15 @@
+C:\Pemograman Sem 2\PolyInter\PolyInter\PolyInter\bin\Debug\net6.0\PolyInter.exe
+C:\Pemograman Sem 2\PolyInter\PolyInter\PolyInter\bin\Debug\net6.0\PolyInter.deps.json
+C:\Pemograman Sem 2\PolyInter\PolyInter\PolyInter\bin\Debug\net6.0\PolyInter.runtimeconfig.json
+C:\Pemograman Sem 2\PolyInter\PolyInter\PolyInter\bin\Debug\net6.0\PolyInter.dll
+C:\Pemograman Sem 2\PolyInter\PolyInter\PolyInter\bin\Debug\net6.0\PolyInter.pdb
+C:\Pemograman Sem 2\PolyInter\PolyInter\PolyInter\obj\Debug\net6.0\PolyInter.csproj.AssemblyReference.cache
+C:\Pemograman Sem 2\PolyInter\PolyInter\PolyInter\obj\Debug\net6.0\PolyInter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pemograman Sem 2\PolyInter\PolyInter\PolyInter\obj\Debug\net6.0\PolyInter.AssemblyInfoInputs.cache
+C:\Pemograman Sem 2\PolyInter\PolyInter\PolyInter\obj\Debug\net6.0\PolyInter.AssemblyInfo.cs
+C:\Pemograman Sem 2\PolyInter\PolyInter\PolyInter\obj\Debug\net6.0\PolyInter.csproj.CoreCompileInputs.cache
+C:\Pemograman Sem 2\PolyInter\PolyInter\PolyInter\obj\Debug\net6.0\PolyInter.dll
+C:\Pemograman Sem 2\PolyInter\PolyInter\PolyInter\obj\Debug\net6.0\refint\PolyInter.dll
+C:\Pemograman Sem 2\PolyInter\PolyInter\PolyInter\obj\Debug\net6.0\PolyInter.pdb
+C:\Pemograman Sem 2\PolyInter\PolyInter\PolyInter\obj\Debug\net6.0\PolyInter.genruntimeconfig.cache
+C:\Pemograman Sem 2\PolyInter\PolyInter\PolyInter\obj\Debug\net6.0\ref\PolyInter.dll
